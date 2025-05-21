@@ -40,7 +40,7 @@ To demonstrate how various prompting techniques (query decomposition, decision-m
 
    * Evaluate output versions for accuracy, originality, tone, and structure.
 
-##cTest Case 1: Business Report on Market Trends
+## Test Case 1: Business Report on Market Trends
 ### Prompt 1 – Basic Prompt:
 Write a business report on current market trends.
 
